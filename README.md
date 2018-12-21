@@ -1,0 +1,2 @@
+# Bias_Variance_Trade-off_using_Regularisatio
+In every predictive model, there are some reducible errors associated with it. They are Bias and Variance. Bias leads to underfitting and Variance leads to overfitting which ultimately leads to high Test error. We can avoid them by using Regularisation in our model. This notebook  contains some experiment to see the effect of Bias and  Variance and how to avoid it.
